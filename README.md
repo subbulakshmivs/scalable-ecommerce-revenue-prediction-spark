@@ -1,4 +1,4 @@
-![Project Banner](banner.png)
+![Project Banner](Apache Spark Banner.png)
 # 🚀 Scalable E-commerce Data Analysis and Revenue Prediction using Apache Spark
 
 ## 📌 Overview
